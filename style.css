@@ -8,6 +8,12 @@ body {
   font-size: 48px;
 }
 
+header,
+section,
+footer {
+  padding: 10px;
+}
+
 h1 {
   color: white;
   text-decoration:underline;
