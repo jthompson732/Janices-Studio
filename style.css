@@ -28,7 +28,9 @@ h3 {
 }
 body {
   margin: 50px;
+  border: 1px solid Black;
 }
+
 
 li,
 ol{
