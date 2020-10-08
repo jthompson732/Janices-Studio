@@ -1,12 +1,14 @@
 body {
-  background-color:turquoise;
+  background-color: turquoise;
   color: black;
   font-family: Arial;
 }
 h1 {
   color: white;
 }
-
 h2 {
-  color: white;
+  color: white
+}
+h3 {
+  color: black;
 }
