@@ -1,8 +1,11 @@
 body {
   background-color:turquoise;
-  color: white;
+  color: black;
 }
 h1 {
-  color: black;
-  font-family: Didot;
+  color: white;
+}
+
+h2 {
+  color: white;
 }
