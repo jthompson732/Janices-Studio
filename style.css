@@ -10,3 +10,8 @@ h1 {
 h2 {
   color: white;
 }
+/* Website Styles */
+body {
+  background-color: grey;
+  color: black;
+}
