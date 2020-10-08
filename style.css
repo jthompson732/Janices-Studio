@@ -3,15 +3,34 @@ body {
   color: black;
   font-family: Arial;
 }
+
 .title {
   font-size: 48px;
 }
+
 h1 {
   color: white;
+  text-decoration:underline;
 }
+
 h2 {
   color: white
 }
+
 h3 {
   color: black;
+}
+
+li,
+ol{
+  line-height: 1.6;
+}
+a:link,
+a:focus,
+a:active{
+  color:Magenta;
+}
+a:visited {
+  color: Purple;
+
 }
