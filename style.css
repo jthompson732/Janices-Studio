@@ -11,6 +11,10 @@ h2 {
   color: white;
 }
 /* Website Styles */
+
+*{
+  font-size: 75%
+}
 body {
   background-color: grey;
   color: black;
