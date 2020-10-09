@@ -45,3 +45,14 @@ a:visited {
   color: Purple;
 
 }
+
+.AllImages {
+  display: flex;
+  flex: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.class {
+  padding: 15px;
+}
